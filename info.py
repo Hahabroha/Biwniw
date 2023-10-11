@@ -22,7 +22,7 @@ CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://graph.org/file/c1b2c4a4c570583b2ebf6.jpg https://graph.org/file/0292e605c31d71e708011.jpg')).split() #SAMPLE PIC
-NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/c605a659444a78f828a12.jpg")
+NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/64ce9545894b7a2e05d89.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/291c8d217ec2682f71043.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/c605a659444a78f828a12.jpg")
 
@@ -56,9 +56,9 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/crazysupportz')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/crazybotz')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/crazybotz')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/movie_request_group_69')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/hdlinks4uu')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/starvibehowto/41')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'Dont Hurt me Gaandu ❤️')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001969425466'))
