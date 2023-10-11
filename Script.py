@@ -20,8 +20,6 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     SOURCE_TXT = """
 <b>Sᴏʀʀʏ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ Oғ Tʜɪs Bᴏᴛ ɪs Pʀɪᴠᴀᴛᴇ 
 Aᴅᴅ Tʜɪs Bᴏᴛ ɪɴ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Usᴇ Lɪᴋᴇ Yᴏᴜʀs😊
-
-Developer<a href='https://t.me/khandudon302'</a>
 """
 
 
